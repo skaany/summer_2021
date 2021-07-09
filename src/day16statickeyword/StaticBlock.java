@@ -38,7 +38,6 @@ public class StaticBlock {
 		method1();
 		System.out.println("Main");
 		method2();
-		
 
 	}
 	
@@ -53,16 +52,5 @@ public class StaticBlock {
 	StaticBlock(){
 		System.out.println("Constructor");
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 }
